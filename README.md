@@ -1,4 +1,4 @@
-# Implement design pattern using python
+# Implement Design Pattern Using Python
 Python实现常见的设计模式
 
 ##　目录
