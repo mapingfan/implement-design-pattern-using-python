@@ -7,3 +7,4 @@ Python实现常见的设计模式
 ### 2.<a href="https://github.com/mapingfan/implement-design-pattern-using-python/blob/master/abstract-factory-pattern/%60Abstract%20Factory%20Desing%20Pattern%20Using%20Python%60.md">抽象工厂模式</a>
 ### 3.<a href="https://github.com/mapingfan/implement-design-pattern-using-python/blob/master/singleton-pattern/%60Singleton%20Pattern%20Using%20Python%60.md">单例模式</a>
 ### 4.<a href="https://github.com/mapingfan/implement-design-pattern-using-python/blob/e6a54cb897f473ec247cbc8bb35f1eb2a4e931bf/builder-pattern/Build-Pattern%20using%20python.md">构造模式</a>
+### 5.<a href="https://github.com/mapingfan/implement-design-pattern-using-python/blob/2fc6cfd12ad1262377ed81967170fa3c674e6185/prototype-pattern/Prototype%20Pattern%20Uisng%20Python.md">原型模式</a>
